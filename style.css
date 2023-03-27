@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+input{
+  background-color: skyblue;
+}
+
+.classB{
+  color: red;
+}
+
+#button2{
+  font-size: 120%;
+}
